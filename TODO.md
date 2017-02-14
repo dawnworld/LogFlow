@@ -1,8 +1,8 @@
 TODOs
 ---
-[ ] 1. nitailiaze structure
-[ ] 2. omplete logger
-[ ] 3. omplete main
-[ ] 4. omplete engine partly
-[ ] 5. omplete input class
-[ ] 6. ..
+1. [ ] initailiaze structure
+2. [ ] complete logger
+3. [ ] complete main
+4. [ ] complete engine partly
+5. [ ] complete input class
+6. [ ] ...
